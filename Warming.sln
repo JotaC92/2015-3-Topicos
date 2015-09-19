@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "ConsoleApplication1\HelloWorld.csproj", "{795FCE63-C661-4523-B9BE-8AA57D9B896B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResolverEcuacionCuadratica.BL", "ResolverEcuacionCuadratica\ResolverEcuacionCuadratica.BL.csproj", "{212623BA-526D-4913-8E62-4157CC127307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{795FCE63-C661-4523-B9BE-8AA57D9B896B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795FCE63-C661-4523-B9BE-8AA57D9B896B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795FCE63-C661-4523-B9BE-8AA57D9B896B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795FCE63-C661-4523-B9BE-8AA57D9B896B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{212623BA-526D-4913-8E62-4157CC127307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212623BA-526D-4913-8E62-4157CC127307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212623BA-526D-4913-8E62-4157CC127307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212623BA-526D-4913-8E62-4157CC127307}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
