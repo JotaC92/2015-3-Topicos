@@ -10,8 +10,8 @@ namespace ResolverEcuacionCuadratica
     {
         public void CalcularLasRaices(double discriminante, double primerNumero, double segundoNumero, double tercerNumero, ref double primeraRaiz, ref double segundaRaiz)
         {
-            primeraRaiz = (-primerNumero + Math.Sqrt(discriminante)) / (2 * primerNumero);
-            segundaRaiz = (-primerNumero - Math.Sqrt(discriminante)) / (2 * primerNumero);
+            primeraRaiz = (-segundoNumero + Math.Sqrt(discriminante)) / (2 * primerNumero);
+            segundaRaiz = (-segundoNumero - Math.Sqrt(discriminante)) / (2 * primerNumero);
         }
     }
 }
